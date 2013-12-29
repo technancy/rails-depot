@@ -15,6 +15,6 @@ Product.create(:title => 'Programming Ruby 1.9',
 Product.create(:title => 'Coding for a Better Tomorrow', 
   :description =>
   %{<p>Has today been a not so good code day? Don't worry, with the wisdom contained within these pages, you can code for a better tomorrow.</p>},
-  :image_url => '/images/book.jpg',
+  :image_url => '/images/tomorrow.jpg',
   :price => 49.50)
 # . . .
