@@ -25,15 +25,18 @@ dd {
   padding: 0px;
   width: 200px;
 }
-.list_actions{
+.list_actions {
   text-align: right;
   line-height: 25px;
 }
-.list_line_even{
+.list_line_even {
   background-color: #DDD;
 }
-.list_line_odd{
+.list_line_odd {
   background-color: #feffcc;
+}
+.list_image {
+  width: 100px;
 }
 pre {
   background-color: #eee;
